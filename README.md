@@ -1,9 +1,9 @@
-#DRPCIV-availability
+#DRPCIV-availability<br/>
 
-#Notes:
--this is a simple java console project that sends an email or opens an URL when a specific date is free for the "Romanian DMV";
--people usally cancel appointments and you can have their place;
+#Notes:<br/>
+-this is a simple java console project that sends an email or opens an URL when a specific date is free for the "Romanian DMV";<br/>
+-people usally cancel appointments and you can have their place;<br/>
 
-#Dependencies:
--google.code.gson
--sun.mail.javax
+#Dependencies: <br/>
+-google.code.gson <br/>
+-sun.mail.javax <br/>
